@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPad%20Air%202-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPad%20Air%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad4,9</string>
@@ -71,7 +71,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPad%20Pro%20(9.7-inch)-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPad%20Pro%20(9.7-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -86,7 +86,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPhone%206s%20Plus-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPhone%206s%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone8,2</string>
@@ -97,7 +97,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPhone%207%20Plus-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPhone%207%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,5</string>
@@ -112,7 +112,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPhone%208-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPhone%208-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone9,1</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement-iPhone%20SE-etc.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/app/Apps/XPManagement-iPhone%20SE-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone8,4</string>
