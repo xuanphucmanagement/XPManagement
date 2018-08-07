@@ -4,6 +4,94 @@
 <dict>
 	<key>variants</key>
 	<dict>
+		<key>Apps/XPManagement-iPad (4th generation)-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>8885098</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>8885098</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>32488506</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>32488506</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad3,2</string>
+				<string>iPad3,3</string>
+				<string>iPad3,1</string>
+				<string>iPad3,6</string>
+				<string>iPad3,4</string>
+				<string>iPad3,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+			</array>
+		</dict>
+		<key>Apps/XPManagement-iPad 2-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>8908301</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>8908301</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>32513817</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>32513817</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad2,3</string>
+				<string>iPad2,2</string>
+				<string>iPad2,1</string>
+				<string>iPad2,4</string>
+				<string>iPad2,7</string>
+				<string>iPad2,6</string>
+				<string>iPad2,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+			</array>
+		</dict>
 		<key>Apps/XPManagement-iPad Air 2-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
@@ -11,15 +99,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8644298</integer>
+			<integer>8878957</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8644298</integer>
+			<integer>8878957</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32368226</integer>
+			<integer>32605199</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32368226</integer>
+			<integer>32605199</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -80,15 +168,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8644258</integer>
+			<integer>8878912</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8644258</integer>
+			<integer>8878912</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32367821</integer>
+			<integer>32604794</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32367821</integer>
+			<integer>32604794</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -116,6 +204,45 @@
 				<string>iPad Pro (9.7-inch)</string>
 			</array>
 		</dict>
+		<key>Apps/XPManagement-iPhone 5-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>8842773</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>8842773</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>32445636</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>32445636</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone5,2</string>
+				<string>iPhone5,1</string>
+				<string>iPhone5,3</string>
+				<string>iPhone5,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 5</string>
+				<string>iPhone 5</string>
+				<string>iPhone 5c</string>
+				<string>iPhone 5c</string>
+			</array>
+		</dict>
 		<key>Apps/XPManagement-iPhone 6s Plus-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
@@ -123,15 +250,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8655354</integer>
+			<integer>8890009</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8655354</integer>
+			<integer>8890009</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32379973</integer>
+			<integer>32616946</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32379973</integer>
+			<integer>32616946</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -158,15 +285,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8655385</integer>
+			<integer>8890041</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8655385</integer>
+			<integer>8890041</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32380109</integer>
+			<integer>32617082</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32380109</integer>
+			<integer>32617082</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -201,15 +328,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8601936</integer>
+			<integer>8836596</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8601936</integer>
+			<integer>8836596</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32324953</integer>
+			<integer>32561926</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32324953</integer>
+			<integer>32561926</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -240,15 +367,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>8601936</integer>
+			<integer>8836591</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>8601936</integer>
+			<integer>8836591</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32325015</integer>
+			<integer>32561988</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32325015</integer>
+			<integer>32561988</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -276,6 +403,41 @@
 				<string>iPod touch (6th generation)</string>
 			</array>
 		</dict>
+		<key>Apps/XPManagement-iPod touch-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>8842772</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>8842772</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>32445568</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>32445568</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone4,1</string>
+				<string>iPod5,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 4S</string>
+				<string>iPod touch</string>
+			</array>
+		</dict>
 		<key>Apps/XPManagement.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
@@ -283,15 +445,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>9157258</integer>
+			<integer>9612698</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>9157258</integer>
+			<integer>9612698</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>32887546</integer>
+			<integer>33648536</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>32887546</integer>
+			<integer>33648536</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
