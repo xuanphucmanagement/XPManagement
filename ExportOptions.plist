@@ -7,7 +7,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/XPManagement.ipa</string>
+		<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/Apps/XPManagement.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/xuanphucmanagement/XPManagement/master/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
