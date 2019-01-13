@@ -1,94 +1,94 @@
 
 App Thinning Size Report for All Variants of XPManagement
 
-Variant: XPManagement-003E82D2-6E95-4D05-BDB0-53402ACC09DC.ipa
-Supported variant descriptors: [device: iPhone7,1, os-version: 11] and [device: iPhone8,2, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-3338B198-3E4E-4ED3-979A-AAC701B3E12C.ipa
-Supported variant descriptors: [device: iPhone9,4, os-version: 11], [device: iPhone10,2, os-version: 11], [device: iPhone10,5, os-version: 11], [device: iPhone10,3, os-version: 11], [device: iPhone10,6, os-version: 11], and [device: iPhone9,2, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-3C869B31-95BF-413D-B904-233D03FA972A.ipa
-Supported variant descriptors: [device: iPhone8,2, os-version: 12]
-App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
-App size: 8.5 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-80C08DB9-95C4-4A23-9F5B-66AFAE3A946B.ipa
-Supported variant descriptors: [device: iPad6,4, os-version: 11], [device: iPad6,3, os-version: 11], [device: iPad7,3, os-version: 11], [device: iPad7,4, os-version: 11], [device: iPad7,1, os-version: 11], and [device: iPad7,2, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-89DFEDFC-3F9D-4016-B41D-07B8FBC6300E.ipa
+Variant: XPManagement-0B37FE1A-D627-4E62-9D68-3486B36ED9F0.ipa
 Supported variant descriptors: [device: iPad4,5, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad5,2, os-version: 12], and [device: iPad4,8, os-version: 12]
 App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
 App size: 8.5 MB compressed, 32.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: XPManagement-8E06E1BB-6F33-44D1-AB28-05191FAD521F.ipa
-Supported variant descriptors: [device: iPhone11,8, os-version: 12]
-App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
-App size: 8.5 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-93C6B791-6208-4C63-9256-ED04F748AB00.ipa
-Supported variant descriptors: [device: iPhone10,6, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone11,4, os-version: 12], and [device: iPhone10,5, os-version: 12]
-App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
-App size: 8.5 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-9B165780-302D-41C7-AE6C-698513E32513.ipa
-Supported variant descriptors: [device: iPad4,4, os-version: 11], [device: iPad4,3, os-version: 11], [device: iPad6,12, os-version: 11], [device: iPad6,7, os-version: 11], [device: iPad4,8, os-version: 11], [device: iPad7,6, os-version: 11], [device: iPad4,9, os-version: 11], [device: iPad6,8, os-version: 11], [device: iPad5,4, os-version: 11], [device: iPad4,5, os-version: 11], [device: iPad6,11, os-version: 11], [device: iPad4,2, os-version: 11], [device: iPad5,3, os-version: 11], [device: iPad4,7, os-version: 11], [device: iPad4,1, os-version: 11], [device: iPad5,1, os-version: 11], [device: iPad7,5, os-version: 11], [device: iPad5,2, os-version: 11], and [device: iPad4,6, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-B0EAE077-AAC8-4280-86D2-B49F84A6D125.ipa
-Supported variant descriptors: [device: iPhone8,4, os-version: 11], [device: iPod7,1, os-version: 11], [device: iPhone7,2, os-version: 11], [device: iPhone6,1, os-version: 11], [device: iPhone8,1, os-version: 11], and [device: iPhone6,2, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-BCB49461-46ED-49E2-B7BB-B55BCEC0264C.ipa
-Supported variant descriptors: [device: iPhone9,1, os-version: 11], [device: iPhone9,3, os-version: 11], [device: iPhone10,1, os-version: 11], and [device: iPhone10,4, os-version: 11]
-App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
-App size: 8.6 MB compressed, 32.6 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: XPManagement-BD231754-E604-46BE-99A1-D832CFBD3E62.ipa
+Variant: XPManagement-29D37650-2216-4385-ABE1-BABD46888610.ipa
 Supported variant descriptors: [device: iPhone10,1, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPhone9,1, os-version: 12], and [device: iPhone9,3, os-version: 12]
 App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
 App size: 8.5 MB compressed, 32.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: XPManagement-DC9AA1B2-171E-4358-A42C-4D0281E61828.ipa
+Variant: XPManagement-2BC57B1F-F333-4C81-A297-EDC335F6562A.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 11], [device: iPad6,3, os-version: 11], [device: iPad7,3, os-version: 11], [device: iPad7,4, os-version: 11], [device: iPad7,1, os-version: 11], and [device: iPad7,2, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-46A46137-6AD7-4C5F-A64C-22C9D8FA8FEF.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 11], [device: iPod7,1, os-version: 11], [device: iPhone7,2, os-version: 11], [device: iPhone6,1, os-version: 11], [device: iPhone8,1, os-version: 11], and [device: iPhone6,2, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-5292D437-C9FE-4537-B5E4-94A1C23D1DBE.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12]
+App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
+App size: 8.5 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-5A9204C3-FAE9-423A-BADE-D391F7B9BCA0.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 11], [device: iPhone9,3, os-version: 11], [device: iPhone10,1, os-version: 11], and [device: iPhone10,4, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-5E7B9D3D-962D-45A0-9945-CABA474C15D3.ipa
 Supported variant descriptors: [device: iPod7,1, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone8,1, os-version: 12], [device: iPhone8,4, os-version: 12], and [device: iPhone7,2, os-version: 12]
 App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
 App size: 8.5 MB compressed, 32.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: XPManagement-EA2CA5ED-4EEC-46EF-9274-044E98DB40B8.ipa
+Variant: XPManagement-68638204-F809-41FE-B35C-8A327E1D164E.ipa
+Supported variant descriptors: [device: iPad4,4, os-version: 11], [device: iPad4,3, os-version: 11], [device: iPad6,12, os-version: 11], [device: iPad6,7, os-version: 11], [device: iPad4,8, os-version: 11], [device: iPad7,6, os-version: 11], [device: iPad4,9, os-version: 11], [device: iPad6,8, os-version: 11], [device: iPad5,4, os-version: 11], [device: iPad4,5, os-version: 11], [device: iPad6,11, os-version: 11], [device: iPad4,2, os-version: 11], [device: iPad5,3, os-version: 11], [device: iPad4,7, os-version: 11], [device: iPad4,1, os-version: 11], [device: iPad5,1, os-version: 11], [device: iPad7,5, os-version: 11], [device: iPad5,2, os-version: 11], and [device: iPad4,6, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-78D90C4D-A408-49DB-AED2-CB1C230F76AA.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
+App size: 8.5 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-8F312FEF-FC3F-4A4E-B557-17CF3EEB077E.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone11,6, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone11,4, os-version: 12], and [device: iPhone10,5, os-version: 12]
+App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
+App size: 8.5 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-AB31A126-710E-4699-9B32-8647692BEBFC.ipa
 Supported variant descriptors: [device: iPad7,3, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad8,1, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad8,8, os-version: 12], [device: iPad8,2, os-version: 12], and [device: iPad8,5, os-version: 12]
 App + On Demand Resources size: 8.5 MB compressed, 32.6 MB uncompressed
 App size: 8.5 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-AD5419F3-5003-4DB5-AF3E-FCABF8F5A82B.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11] and [device: iPhone8,2, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: XPManagement-C929CE2B-33FB-48D7-B63A-7A1AFE0CD695.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 11], [device: iPhone10,2, os-version: 11], [device: iPhone10,5, os-version: 11], [device: iPhone10,3, os-version: 11], [device: iPhone10,6, os-version: 11], and [device: iPhone9,2, os-version: 11]
+App + On Demand Resources size: 8.6 MB compressed, 32.6 MB uncompressed
+App size: 8.6 MB compressed, 32.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
